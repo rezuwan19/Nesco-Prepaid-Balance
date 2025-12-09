@@ -108,14 +108,12 @@ python main.py
 ---
 ## 📸 OutPut (Screenshots)
 
-![Telegram Bangla Message](screenshort/Telegram-Bangla.png)
-
-![Discord Bangla Message](screenshort/Discord-Bangla.png)
-
-![Telegram English Message](screenshort/Telegram-English.png)
-
-![Discord English Message](screenshort/Discord-Engling.png)
-
+<p align="center" width="100%">
+  <img src="screenshort/Telegram-English.png" width="20%">
+  <img src="screenshort/Discord-Engling.png" width="20%">
+  <img src="screenshort/Telegram-Bangla.png" width="20%">
+  <img src="screenshort/Discord-Bangla.png" width="20%">
+</p>
 ---
 ## GitHub Actions
 1️⃣ Create a new repository on GitHub
