@@ -114,7 +114,9 @@ python main.py
   <img src="screenshort/Telegram-Bangla.png" width="40%">
   <img src="screenshort/Discord-Bangla.png" width="40%">
 </p>
+
 ---
+
 ## GitHub Actions
 1️⃣ Create a new repository on GitHub
 
