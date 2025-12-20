@@ -1,5 +1,5 @@
 
-# NESCO Prepaid Balance Automation
+# NESCO Prepaid Meter Balance Automation
 
 Automatically fetch your daily balance and recharge history from the NESCO prepaid portal and send notifications to Telegram and Discord — in Bangla or English! 🇧🇩🌍
 
