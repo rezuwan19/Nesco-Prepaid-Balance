@@ -121,6 +121,9 @@ python main.py
 <a href="https://coff.ee/rezuwan19">
   <img src="Screenshots/buymeacoffee.png" width="128px">
 </a>
+<a href="https://pathaopay.me/@rezuwan19">
+  <img src="Screenshots/pathaopay.png" width="128px">
+</a>
 
 ---
 
