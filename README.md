@@ -109,17 +109,17 @@ python main.py
 ## 📸 OutPut (Screenshots)
 
 <p align="center" width="100%">
-  <img src="screenshots/Telegram-English.png" width="40%">
-  <img src="screenshots/Discord-English.png" width="40%">
-  <img src="screenshots/Telegram-Bangla.png" width="40%">
-  <img src="screenshots/Discord-Bangla.png" width="40%">
+  <img src="screenshot/Telegram-English.png" width="40%">
+  <img src="screenshot/Discord-English.png" width="40%">
+  <img src="screenshot/Telegram-Bangla.png" width="40%">
+  <img src="screenshot/Discord-Bangla.png" width="40%">
 </p>
 
 ---
 
 ## Donate
 <a href="https://coff.ee/rezuwan19">
-  <img src="screenshots/buymeacoffee.png" width="128px">
+  <img src="screenshot/buymeacoffee.png" width="128px">
 </a>
 
 ---
